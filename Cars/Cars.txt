@@ -1,7 +1,7 @@
-BMW  X6
-Mersedes-Benz E200
-Nissan  tidda
-Audi r8
-Lada niva
+BMW - X6  2000kg
+Mersedes-Benz - E200  1800kg
+Nissan -  tidda   1000kg
+Audi  - r8  1200kg
+Lada -  niva  1500kg
 
 
